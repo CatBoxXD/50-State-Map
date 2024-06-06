@@ -1,6 +1,6 @@
 # NCT-State-Maps
-you may be asking yourself why? well, turns out many people either dont want to go through the hassle of making a map for the state they want to make a mod for, or they dont know how to do that : (
-before you get started heres a list of the states and the date in which the map before the date start to look different : )
+you may be asking yourself why? well, turns out many people either dont want to go through the hassle of making a map for the state they want to make a mod for, or they dont know how to do that :(
+before you get started heres a list of the states and the date in which the map before the date start to look different :)
 
 AL: rmngaming5068 | 1903
 AK: catboxxd | 2013
