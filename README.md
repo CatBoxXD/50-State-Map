@@ -8,6 +8,7 @@ anyways i hope this is helpful if you want to make a senate, governor, or whatev
 
 
 here are the people that made it possible!!!!!!:
+
 AL: rmngaming5068 | 1903
 AK: catboxxd | 2013
 AZ: diamondy30901 | 1983
