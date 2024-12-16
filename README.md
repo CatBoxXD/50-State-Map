@@ -4,7 +4,21 @@ there is a blank map where you can put it into whatever election you want like 1
 
 alongside that there is also a map with the code 2 with it, that fills in all the areas without having to do so yourself. though that comes with needing to use that election for your mod. so if you pick one with 2000, you would need to make the election with the 2000 scenario off of it essentially
 
-though ive seen that it doesnt work with the jet code 2 thing, so keep that in mind
+though ive seen that it doesnt work with the jet code 2 tool, (from reddit post: https://www.reddit.com/r/thecampaigntrail/comments/1hfgvsd/comment/m2drcyp/?context=3  (ty!!!!!!!))
+
+
+If you want this to work with the code 2 tool any javascript code (the stuff that makes the maps) will need to between //#startcode and //#endcode
+
+So like:
+
+//#startcode
+
+PUT ALL THE CODE THAT MAKES THE MAP WORK HERE
+
+//#endcode
+
+Then any code will be preserved while importing/exporting code 2s to the tool.
+
 
 anyways i hope this is helpful if you want to make a senate, governor, or whatever election or scenario or whatever :)
 
