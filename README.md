@@ -1,6 +1,6 @@
 hello, this is a place where all 50 states have maps
 
-there is a blank map where you can put it into whatever election you want like 1976, 2020, 2016, 2000 etc.
+there is a blank map where you can put it into whatever election you want like 1976, 2020, 2016, 2000 etc. though you would need to fill in the states yourself
 
 alongside that there is also a map with the code 2 with it, that fills in all the areas without having to do so yourself. though that comes with needing to use that election for your mod. so if you pick one with 2000, you would need to make the election with the 2000 scenario off of it essentially
 
