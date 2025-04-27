@@ -1,15 +1,28 @@
-hello, this is a place where all 50 states have maps
+### haiiiiiii, welcome to this place with all states maps!!!!!! :3
+
+## what exactly is this place?
+
+this is a page i made to put all the us states' maps into one place, making it more easier to reach to ^^ ^^ ^^ ^^ ^^
+
+all the states from alaska to wisconsin and in between all have their maps, filled in and not depending on if thats what your looking for :3
 
 there is a blank map where you can put it into whatever election you want like 1976, 2020, 2016, 2000 etc. though you would need to fill in the states yourself
 
 alongside that there is also a map with the code 2 with it, that fills in all the areas without having to do so yourself. though that comes with needing to use that election for your mod. so if you pick one with 2000, you would need to make the election with the 2000 scenario off of it essentially
 
-though ive seen that it doesnt work with the jet code 2 tool, (from reddit post: https://www.reddit.com/r/thecampaigntrail/comments/1hfgvsd/comment/m2drcyp/?context=3  (ty!!!!!!!))
+## difficulty translating this to jets code 2 tool
 
+this is probably apparent if you tried entering in these maps into the jet code 2 tool, it doesnt work ;w; ;w; ;w; ;w;
+
+thankfully, the person that made it was able to give a simple fix for this in the comment section below!!!!!!! :3 :3 :3 :3 :3
+
+https://www.reddit.com/r/thecampaigntrail/comments/1hfgvsd/comment/m2drcyp/?context=3
+
+### as the comment says
 
 If you want this to work with the code 2 tool any javascript code (the stuff that makes the maps) will need to between //#startcode and //#endcode
 
-So like:
+### So like:
 
 //#startcode
 
@@ -20,10 +33,7 @@ PUT ALL THE CODE THAT MAKES THE MAP WORK HERE
 Then any code will be preserved while importing/exporting code 2s to the tool.
 
 
-anyways i hope this is helpful if you want to make a senate, governor, or whatever election or scenario or whatever :)
-
-
-here are the people that made it possible!!!!!!:
+## here are the people that made it possible!!!!!!:
 
 AL: rmngaming5068 | 1903
 
@@ -124,3 +134,5 @@ WV: catboxxd | 1895
 WI: rmngaming5068 | 1959
 
 WY: catboxxd | 1921
+
+### i hope this resource is helpful if you want to make a senate, governor, or whatever scenario you want!!!!!! ^^ ^^ ^^ ^^ ^^
